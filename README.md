@@ -42,16 +42,3 @@
 
 * **GraphQL & Web3:**
   GraphQL APIs, Web3.js, smart contract interaction, blockchain data indexing
-
----
-
-### 🔧 **Selected Projects**
-
-* 🔹 Developed intelligent assistants using **OpenAI GPT-4** + **FastAPI**, integrated with custom knowledge bases via **RAG**
-* 🔹 Built high-performance **REST APIs** using **GIN (GoLang)** and **Actix Web (Rust)** with role-based authentication
-* 🔹 Created semantic search features using **LLM embeddings + pgvector**, with live updates and filtering
-* 🔹 Built vector-powered chat apps with **LangChain** and **Pinecone**, enabling multi-turn conversations with memory
-* 🔹 Scaled cloud-native microservices with Docker, Kubernetes, and GitHub CI/CD pipelines
-* 🔹 Automated scraping and real-time ingestion of structured data using Playwright and custom pipelines
-* 🔹 Designed a custom **Golang DAG engine** for async data workflows
-* 🔹 Built live dashboards and chat features using FastAPI WebSockets and Socket.IO
