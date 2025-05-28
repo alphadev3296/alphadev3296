@@ -1,7 +1,7 @@
 **💻 Backend Developer – Python | GoLang | Rust | AI | LLM**
 
 
-🚀 **7+ years of experience** building scalable, cloud-native backend systems with a focus on performance, real-time communication, and automation. I specialize in robust API development, asynchronous processing, and modern DevOps using **Python**, **GoLang (GIN)**, and **Rust (Actix Web)**—with **strong experience integrating Large Language Models (LLMs)** into production systems.
+🚀 **9+ years of experience** building scalable, cloud-native backend systems with a focus on performance, real-time communication, and automation. I specialize in robust API development, asynchronous processing, and modern DevOps using **Python**, **GoLang (GIN)**, and **Rust (Actix Web)**—with **strong experience integrating Large Language Models (LLMs)** into production systems.
 
 ---
 
