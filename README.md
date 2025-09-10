@@ -88,7 +88,7 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphadev3296&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphadev3296&layout=compact&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphadev3296&layout=compact&theme=tokyonight&hide_border=true&hide=html)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphadev3296&theme=tokyonight&hide_border=true)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alphadev3296&theme=tokyo-night&hide_border=true)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=alphadev3296&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true)  
@@ -140,3 +140,4 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alpha_develop)
 
 </div>
+
