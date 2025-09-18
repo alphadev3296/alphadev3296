@@ -7,7 +7,7 @@ I am a **Senior Backend Engineer & AI/ML Specialist** with **10+ years of experi
 I have **deep expertise with FastAPI + Pydantic (schema validation, settings management, type-safety)** and follow **test-first/TDD approaches** for production pipelines. I combine **Python backend mastery** with **LLM/AI integration, microservices architecture, and DevOps automation** to deliver **high-performance software** used at scale.  
 
 ✔️ **Python & FastAPI Mastery** with Pydantic-based validation and schema-driven design  
-✔️ **Test-Oriented Development** → Pytest, TDD/BDD, CI/CD, mocks, coverage-driven quality  
+✔️ **Test-Oriented Development** → Pytest, TDD, CI/CD, mocks, coverage-driven quality  
 ✔️ **AI/ML Engineering** → GPT‑4/3.5, LangChain, Hugging Face, Retrieval-Augmented Generation (RAG)  
 ✔️ **Cloud-Native Dev** → Heroku, GCP, AWS, Vercel, Docker, Kubernetes, CI/CD automation  
 ✔️ **Databases Expertise** → MongoDB, PostgreSQL, Redis, Qdrant (Vector DB)  
@@ -17,7 +17,7 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 ## 🔑 Core Competencies  
 
 - **Backend Development** → Python (FastAPI, Django, Flask), Pydantic, async APIs, REST/GraphQL  
-- **Testing & QA** → Pytest, TDD/BDD, integration tests, CI/CD + coverage enforcement  
+- **Testing & QA** → Pytest, TDD, integration tests, CI/CD + coverage enforcement  
 - **AI/ML** → LLMs (OpenAI GPT, LangChain, Hugging Face), embeddings, vector retrieval  
 - **Database Systems** → MongoDB, PostgreSQL, Redis, Qdrant  
 - **Cloud & DevOps** → Heroku, GCP, AWS, Vercel, CI/CD, K8s, Docker  
@@ -33,7 +33,7 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 
 ### 🧪 **Testing & QA**  
 - **Pytest-first approach** with CI/CD pipelines  
-- TDD/BDD methodologies ensuring accelerated, failure-resistant delivery  
+- TDD methodologies ensuring accelerated, failure-resistant delivery  
 - Achieved **90%+ code coverage** across production backends  
 - Structured test suites: unit, integration, service, and E2E  
 
@@ -113,7 +113,7 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 ## 🎯 Current Focus  
 
 - Leveraging **Pydantic v2** for optimized backend data validation  
-- Test-first architecture with **TDD/BDD & CI/CD pipelines**  
+- Test-first architecture with **TDD & CI/CD pipelines**  
 - Building **next-gen AI-powered microservices backends**  
 - Scaling **semantic AI search with Qdrant & Redis vectors**  
 
@@ -135,5 +135,6 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alpha_develop)  
 
 </div>
+
 
 
