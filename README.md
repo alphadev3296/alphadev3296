@@ -1,10 +1,5 @@
 # 🚀 Senior Backend Engineer | AI/ML Specialist | Cloud-Native Architect  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alpha5611331@gmail.com) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alpha_develop)  
-
----
-
 ## 🌟 About Me  
 
 I am a **Senior Backend Engineer & AI/ML Specialist** with **10+ years of experience** designing and building **scalable backend systems, cloud-native applications, and AI-powered solutions**.  
@@ -136,8 +131,9 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 
 **“Reliable backends are built with validated data & tested code.”** 🚀  
 
-[![Email](https://img.shields.io/badge/Email-alpha5611331@gmail.com-red?style=for-the-badge)](mailto:alpha5611331@gmail.com) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alpha_develop)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alpha5611331@gmail.com) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alpha_develop)  
 
 </div>
+
 
