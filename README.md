@@ -20,7 +20,7 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 - **Testing & QA** → Pytest, TDD, integration tests, CI/CD + coverage enforcement  
 - **AI/ML** → LLMs (OpenAI GPT, LangChain, Hugging Face), embeddings, vector retrieval  
 - **Database Systems** → MongoDB, PostgreSQL, Redis, Qdrant  
-- **Cloud & DevOps** → Heroku, GCP, AWS, Vercel, CI/CD, K8s, Docker  
+- **Cloud & DevOps** → GCP, Vercel, AWS, Heroku, CI/CD, Docker, K8s
 
 ---
 
@@ -135,6 +135,7 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alpha_develop)  
 
 </div>
+
 
 
 
