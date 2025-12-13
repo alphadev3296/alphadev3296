@@ -8,7 +8,7 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 
 ✔️ **Python & FastAPI Mastery** with Pydantic-based validation and schema-driven design  
 ✔️ **Test-Oriented Development** → Pytest, TDD, CI/CD, mocks, coverage-driven quality  
-✔️ **AI/ML Engineering** → GPT‑4/3.5, LangChain, Hugging Face, Retrieval-Augmented Generation (RAG)  
+✔️ **AI/ML Engineering** → GPT‑5/4/3.5, LangChain, Hugging Face, Retrieval-Augmented Generation (RAG)  
 ✔️ **Cloud-Native Dev** → Heroku, GCP, AWS, Vercel, Docker, Kubernetes, CI/CD automation  
 ✔️ **Databases Expertise** → MongoDB, PostgreSQL, Redis, Qdrant (Vector DB)  
 
@@ -135,6 +135,7 @@ I have **deep expertise with FastAPI + Pydantic (schema validation, settings man
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alpha_develop)  
 
 </div>
+
 
 
 
