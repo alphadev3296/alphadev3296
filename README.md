@@ -1,4 +1,4 @@
-# 🚀 Senior Backend/Full-Stack Engineer | Agentic AI Specialist | Cloud-Native Architect
+# 🚀 Senior Backend/Full-Stack Developer | Agentic AI/LLM Specialist | Cloud-Native Architect
 
 ## 👋 About Me
 
@@ -292,3 +292,4 @@ I'm interested in roles that combine:
 *Available for contract work, consulting, and full-time opportunities.*
 
 </div>
+
