@@ -1,4 +1,4 @@
-# Senior Agentic AI & Full-Stack Engineer
+# Senior LLM & Agentic AI & Full-Stack Engineer
 
 LangGraph · CrewAI · LangChain · FastAPI · React/Next.js · GCP/AWS · Kubernetes
 
